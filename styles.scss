@@ -1,0 +1,17 @@
+$color-principal:rgb(89, 202, 119);
+$color-letra-h1: rgb(227, 8, 8);
+$color-letra-p: rgb(43, 12, 217);
+
+body{
+    background-color:$color-principal;
+    h1{
+        color: $color-letra-h1;
+    }
+    div{
+        p{
+            color:$color-letra-p;
+        }
+    }
+}
+
+
